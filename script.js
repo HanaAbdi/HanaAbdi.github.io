@@ -5,7 +5,7 @@ const developer = [
 		title: 'Full stack developer',
 		work: 'Freelance',
 		skills: [ 'html', 'css', 'javascript', 'react', 'git', 'restful API', 'node', 'MySQL' ],
-		software: [ 'VS code', 'sketch', 'photoshop', 'illustrator', 'sourcetree', 'sequelpro', 'postman' ],
+		software: [ 'VS code', 'python', 'javascript', 'css' ],
 		contact: 'hanacodes@outlook.com'
 	}
 ];
