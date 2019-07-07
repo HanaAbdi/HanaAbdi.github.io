@@ -423,7 +423,7 @@ ul {
 }
 
 .contact-h2:before {
-	content: "let's chat?";
+	content: "Chat?";
 }
 
 .em {
@@ -712,12 +712,12 @@ article {
 
 footer {
 	padding: 5px;
-	background-color: #747474;
+	background-color: lightcoral;
 }
 footer p {
 	margin: 2px;
 	text-align: center;
 	color: white;
 	font-size: 1rem;
-	text-transform: lowercase;
+	text-transform: uppercase;
 }
